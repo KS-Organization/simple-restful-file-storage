@@ -6,7 +6,7 @@
 
   <groupId>com.mycompany</groupId>
   <artifactId>camel-spring4</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>Velocity Temple</name>
